@@ -15,7 +15,14 @@ DIAGNOSES = [
     "Rub some dirt on it.",
     "Sounds gross. Try not to die.",
     "Go touch grass.",
-    "Stop being poor."
+    "Stop being poor.",
+    "Invest in crypto or have fun being poor.",
+    "Found Paypal, then replace your blood with that of young techbros regularly.",
+    "Why don't you try starting a startup?",
+    "Are you in college? Drop out.",
+    "Have you considered blockchain?",
+    "We're sorry. Your symptoms were previously minted as an NFT. Please link your OpenSea account to continue.",
+    "Are you American? Try to get shot less next time.",
 ]
 
 def parse_and_diagnose(input: str) -> str:
